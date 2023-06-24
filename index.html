@@ -1,0 +1,34 @@
+<!DOCTYPE html> 
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>SimpleStorage</title>
+    <!-- <link rel="stylesheet" href="index.css"> -->
+    
+    <script src="https://cdn.ethers.io/lib/ethers-5.2.umd.min.js" type="application/javascript"></script>
+  </head>
+  <body class="container">
+    <!-- get access to metamask -->
+    <button id="connect" class="button" style="width: 75px;">connect</button>
+
+    <!-- display connected wallet address -->
+    <div id="account" style="margin-top: 12px;"></div>
+
+    <!-- write state of contract -->
+    <div class="container">
+      <input id="input" type="number" placeholder="0" style="margin-top: 12px; margin-bottom: 14px; width: 65px;" />
+    </div>
+    <button id="set-button" class="button" style="margin-top: 8px;">set</button>
+    <button id="get-button" class="button" style="margin-bottom: 16px;">get</button>
+
+    <!-- read state of contract -->
+    <div id="value" class="container"></div>
+
+    <script src="index.js"></script>
+    <!-- <script>
+    </script> -->
+  </body>
+</html>
