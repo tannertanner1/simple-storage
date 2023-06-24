@@ -14,13 +14,15 @@ mkdir <dir> && cd <dir> && code .
 npm init -y
 ```
 
-```bash
+<!-- ```bash
+# Create a new repository: https://github.com/new
 git init
+git add .
 git commit -m ""
 git branch -m main
-git remote add origin https://github.com/tannertanner1/simple-storage.git
+git remote add origin https://github.com/<user>/<dir>.git
 git push -u origin main
-```
+``` -->
 
 ```bash
 npm i ethers@5.7.2 dotenv@16.0.3 -S
@@ -45,12 +47,12 @@ npx hardhat run scripts/deploy.js --network sepolia
 touch index.html index.js index.css
 ```
 
-```bash
+<!-- ```bash
 # git add
 # git commit -m ""
 # git push
 
 ga && gc "" && gp
-```
+``` -->
 
 <br>
