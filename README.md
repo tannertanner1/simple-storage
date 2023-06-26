@@ -55,7 +55,6 @@ git add . && git commit -m "" && git push # ga && gc "" && gp
 <br>
 
 ###### dependencies
-
 - [ethers@5.7.2](https://docs.ethers.org/v5)
   - [dotenv@16.0.3](https://www.dotenv.org/docs/languages/nodejs)
 - [hardhat@2.12.5](https://hardhat.org/hardhat-runner/docs/getting-started#overview)
@@ -69,11 +68,10 @@ git add . && git commit -m "" && git push # ga && gc "" && gp
   + [code-runner @formulahendry](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
     + [hardhat-solidity @nomicfoundation](https://marketplace.visualstudio.com/items?itemName=NomicFoundation.hardhat-solidity)
     + [vscode-solidity-language @tintinweb](https://marketplace.visualstudio.com/items?itemName=tintinweb.vscode-solidity-language)
-  
 
 ###### references
 > https://www.alchemy.com
-https://docs.openzeppelin.com/learn/deploying-and-interacting
-https://hardhat.org/tutorial/testing-contracts
-https://docs.metamask.io/guide/rpc-api.html
-https://docs.fleek.co/hosting/site-deployment/#site-deployment
+> https://docs.openzeppelin.com/learn/deploying-and-interacting
+> https://hardhat.org/tutorial/testing-contracts
+> https://docs.metamask.io/guide/rpc-api.html
+> https://docs.fleek.co/hosting/site-deployment/#site-deployment
