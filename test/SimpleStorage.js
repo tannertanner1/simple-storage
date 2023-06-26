@@ -10,7 +10,7 @@ describe("SimpleStorage", function () {
     return { contract };
   }
 
-  // nests describe calls to create subsections
+  // nested describe calls to create subsections
   describe("", function () {
     it("should return the initial value", async function () {
       const { contract } = await loadFixture(deployFixture);
