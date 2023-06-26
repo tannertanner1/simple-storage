@@ -70,8 +70,12 @@ git add . && git commit -m "" && git push # ga && gc "" && gp
     + [vscode-solidity-language @tintinweb](https://marketplace.visualstudio.com/items?itemName=tintinweb.vscode-solidity-language)
 
 ###### references
-> https://www.alchemy.com
-> https://docs.openzeppelin.com/learn/deploying-and-interacting
-> https://hardhat.org/tutorial/testing-contracts
-> https://docs.metamask.io/guide/rpc-api.html
-> https://docs.fleek.co/hosting/site-deployment/#site-deployment
+https://www.alchemy.com
+
+https://docs.openzeppelin.com/learn/deploying-and-interacting
+
+https://hardhat.org/tutorial/testing-contracts
+
+https://docs.metamask.io/guide/rpc-api.html
+
+https://docs.fleek.co/hosting/site-deployment/#site-deployment
