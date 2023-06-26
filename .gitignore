@@ -1,6 +1,6 @@
 # .hypothesis
 # .vscode
-cache/
+# cache/solidity-files-cache.json
 node_modules/
 .env
 package-lock.json
